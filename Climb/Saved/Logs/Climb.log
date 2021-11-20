@@ -967,3 +967,92 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.20-14.20.45:635][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.11.20-14.20.45:637][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
 [2021.11.20-14.20.45:682][427]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.11.20-14.47.23:020][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.20-14.47.24:045][828]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.20-14.47.24:055][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.20-14.47.24:055][828]PIE: New page: PIE session: ThirdPersonExampleMap (20/11/2021, 14:47:24)
+[2021.11.20-14.47.24:055][828]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.20-14.47.24:064][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009228s)
+[2021.11.20-14.47.24:066][828]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.20-14.47.24:067][828]LogPlayLevel: PIE: World Init took: (0.002115s)
+[2021.11.20-14.47.24:067][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011492s)
+[2021.11.20-14.47.24:073][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.20-14.47.24:074][828]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.20-14.47.24:075][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.20-14.47.24:075][828]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.20-14.47.24:075][828]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.20-14.47.24:075][828]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.20-14.47.24:075][828]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.20-14.47.24:079][828]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.20-14.47.24:079][828]LogAudioMixer: Display: 1: FrontRight
+[2021.11.20-14.47.24:089][828]LogAudioMixer: Display: Using Audio Device KG251Q (NVIDIA High Definition Audio)
+[2021.11.20-14.47.24:090][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.20-14.47.24:090][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.20-14.47.24:090][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.20-14.47.24:091][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.20-14.47.24:091][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.20-14.47.24:091][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.20-14.47.24:092][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.20-14.47.24:092][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.20-14.47.24:092][828]LogInit: FAudioDevice initialized.
+[2021.11.20-14.47.24:092][828]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.11.20-14.47.24:103][828]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.20-14.47.24:106][828]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.11.20-14.47.24
+[2021.11.20-14.47.24:106][828]LogWorld: Bringing up level for play took: 0.001575
+[2021.11.20-14.47.24:106][828]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2021.11.20-14.47.24:108][828]PIE: Server logged in
+[2021.11.20-14.47.24:109][828]PIE: Play in editor total start time 0,058 seconds.
+[2021.11.20-14.47.25:552][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-14.47.25:552][911]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.20-14.47.25:552][911]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.20-14.47.25:552][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-14.47.25:559][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.20-14.47.25:573][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.20-14.47.25:578][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.20-14.47.25:578][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.20-14.47.25:579][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.20-14.47.25:583][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.11.20-14.47.25:611][912]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.11.20-14.48.30:497][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.11.20-14.48.35:666][653]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.20-14.48.35:681][653]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.20-14.48.35:861][653]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.20-14.48.36:740][653]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.20-14.48.36:830][654]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.20-14.49.19:475][839]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.20-14.49.48:906][730]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.20-14.49.48:915][730]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.20-14.49.50:621][833]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2021.11.20-14.49.50:622][833]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.20-14.50.12:665][734]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.20-14.50.12:674][734]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.20-14.50.13:979][813]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Mira_BP
+[2021.11.20-14.50.13:984][813]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.20-14.50.18:333][937]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.20-14.50.18:352][937]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.20-14.50.22:443][142]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.20-14.50.22:455][142]LogBlueprint: Warning: [AssetLog] C:\Users\senho\OneDrive\Documents\GitHub\unreal_git\Climb\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Could not find a variable named "Mira" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Set Mira
+[2021.11.20-14.50.22:462][142]LogBlueprint: Error: [AssetLog] C:\Users\senho\OneDrive\Documents\GitHub\unreal_git\Climb\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2021.11.20-14.50.22:464][142]LogBlueprint: Error: [AssetLog] C:\Users\senho\OneDrive\Documents\GitHub\unreal_git\Climb\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] Default value '' for  Mira  is invalid: 'PinSubCategoryObject on pin 'Mira' is NULL and PinSubCategory is 'None' not 'self''
+[2021.11.20-14.50.22:508][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.11.20-14.50.23:051][162]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonCharacter11C6B6CF49B9FA27D2A6F596ABDF8259.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.20-14.50.23:072][162]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.20-14.50.23:072][162]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.20-14.50.37:370][996]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.20-14.50.37:430][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.20-14.50.38:040][ 22]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonCharacterC789C00A415F6E3AA4F9258B04BC4664.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.20-14.50.38:057][ 22]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.20-14.50.38:057][ 22]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.20-14.51.12:032][243]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.20-14.51.12:094][243]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.11.20-14.51.12:526][259]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonCharacter1DFC2D95409D057363B2229C6FC5B5C6.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.20-14.51.12:541][259]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.20-14.51.12:541][259]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
