@@ -3642,3 +3642,893 @@ Script call stack:
 [2021.11.22-16.49.06:071][341]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
 [2021.11.22-16.49.06:184][341]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonCharacter_Auto8E405C19A4F5114B159DEE498EF6F6AB7.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto8.uasset'
 [2021.11.22-16.49.06:186][341]LogFileHelpers: Auto-saving content packages took 0.116
+[2021.11.22-16.52.40:593][295]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.22-16.52.40:638][295]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.22-16.52.45:468][571]LogContentBrowser: Attempting asset rename: NewFolder -> AnimationsFinal
+[2021.11.22-16.52.45:471][571]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.22-16.53.04:315][974]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Climbing Up Wall (3).fbx)
+[2021.11.22-16.53.04:371][974]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Climbing Up Wall (3).fbx
+[2021.11.22-16.53.04:466][974]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.53.17:119][974]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-16.53.17:156][974]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-16.53.17:156][974]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-16.53.17:156][974]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-16.53.17:156][974]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-16.53.17:169][974]LogMaterial: Display: Material /Game/Mannequin/AnimationsFinal/M_UE4Man_Body.M_UE4Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.22-16.53.17:172][974]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 12670BFE6CC84FAC980740FAF2EDAF513A0FFA30), compiling. 
+[2021.11.22-16.53.17:230][974]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.22-16.53.17:235][974]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 13BCA0DED466FED6D99627EA57FFC5E6CCBF3D97), compiling. 
+[2021.11.22-16.53.17:240][974]LogMaterial: Display: Material /Game/Mannequin/AnimationsFinal/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.22-16.53.17:245][974]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 38E2BE87F9516C7A888DA8E3BE305310424ACD40), compiling. 
+[2021.11.22-16.53.17:267][974]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.22-16.53.17:271][974]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 27350CAC72D30067D159DBB0D933AD6F5E6D8CCC), compiling. 
+[2021.11.22-16.53.17:400][974]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-16.53.18:315][974]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.53.18:316][974]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.53.18:325][974]LogSkeletalMesh: Building Skeletal Mesh Climbing_Up_Wall__3_...
+[2021.11.22-16.53.19:131][974]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.53.19:131][974]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.53.19:200][974]LogSkeletalMesh: Built Skeletal Mesh [0.87s] /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3_.Climbing_Up_Wall__3_
+[2021.11.22-16.53.21:544][974]LogSlate: Window 'Message' being destroyed
+[2021.11.22-16.53.21:551][974]Message dialog closed, result: NoAll, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2021.11.22-16.53.21:569][974]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.53.21:569][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.53.21:616][974]FBXImport: Error: Specified Skeleton 'UE4_Mannequin_Skeleton' do not match fbx imported skeleton. Cannot import animations with this skeleton. 
+[2021.11.22-16.53.21:699][974]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Braced Hang Shimmy (1).fbx)
+[2021.11.22-16.53.21:728][974]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Braced Hang Shimmy (1).fbx
+[2021.11.22-16.53.21:811][974]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.53.21:817][974]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-16.53.21:817][974]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-16.53.21:818][974]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-16.53.21:818][974]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-16.53.21:931][974]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-16.53.22:781][974]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.53.22:781][974]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.53.22:790][974]LogSkeletalMesh: Building Skeletal Mesh Braced_Hang_Shimmy__1_...
+[2021.11.22-16.53.23:575][974]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.53.23:575][974]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.53.23:634][974]LogSkeletalMesh: Built Skeletal Mesh [0.85s] /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_.Braced_Hang_Shimmy__1_
+[2021.11.22-16.53.24:598][974]LogSlate: Window 'Message' being destroyed
+[2021.11.22-16.53.24:603][974]Message dialog closed, result: Cancel, title: Message, text: FAILED TO MERGE BONES:
+
+ This could happen if significant hierarchical changes have been made
+e.g. inserting a bone between nodes.
+Would you like to regenerate the Skeleton from this mesh?
+
+***WARNING: THIS MAY INVALIDATE OR REQUIRE RECOMPRESSION OF ANIMATION DATA.***
+
+[2021.11.22-16.53.24:634][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.22-16.53.24:646][974]LogLinker: Warning: Failed to load '/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_': Can't find file.
+[2021.11.22-16.53.24:647][974]LogLinker: Warning: Failed to load '/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_': Can't find file.
+[2021.11.22-16.53.24:647][974]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_.Braced_Hang_Shimmy__1_'
+[2021.11.22-16.53.24:648][974]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.11.22-16.53.25:626][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.22-16.53.25:634][974]FBXImport: Import was canceled. 
+[2021.11.22-16.53.25:635][974]LogAssetTools: The import task was canceled.
+[2021.11.22-16.53.25:705][976]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.22-16.53.25:716][977]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.22-16.53.25:716][977]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.22-16.53.25:716][977]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.22-16.53.25:722][977]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.25:736][977]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.25:738][977]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.22-16.53.25:762][977]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.26:843][ 35]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.22-16.53.26:843][ 35]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.11.22-16.53.26:843][ 35]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.22-16.53.26:854][ 35]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.11.22-16.53.26:854][ 35]LogShaderCompilers: Display: Total job queries 128, among them cache hits 0 (0.00%)
+[2021.11.22-16.53.26:854][ 35]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 1 distinct outputs (50.00%)
+[2021.11.22-16.53.26:854][ 35]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.11.22-16.53.26:854][ 35]LogShaderCompilers: Display: ================================================
+[2021.11.22-16.53.27:038][ 46]LogSlate: Window 'Message Log' being destroyed
+[2021.11.22-16.53.27:052][ 46]LogSlate: Window 'Message Log' being destroyed
+[2021.11.22-16.53.27:069][ 47]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.22-16.53.27:069][ 47]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.22-16.53.27:126][ 50]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2021.11.22-16.53.27:126][ 50]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.27:575][ 70]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2021.11.22-16.53.27:575][ 70]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2021.11.22-16.53.27:575][ 70]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.27:591][ 71]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.11.22-16.53.27:591][ 71]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.27:725][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.22-16.53.27:739][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.22-16.53.27:739][ 79]PIE: New page: PIE session: ThirdPersonExampleMap (22/11/2021, 16:53:27)
+[2021.11.22-16.53.27:739][ 79]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.22-16.53.27:761][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021399s)
+[2021.11.22-16.53.27:763][ 79]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.22-16.53.27:763][ 79]LogPlayLevel: PIE: World Init took: (0.002096s)
+[2021.11.22-16.53.27:763][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023756s)
+[2021.11.22-16.53.27:797][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2021.11.22-16.53.27:806][ 79]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.22-16.53.27:806][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.22-16.53.27:806][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.22-16.53.27:808][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.22-16.53.27:808][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.22-16.53.27:808][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.22-16.53.27:808][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.22-16.53.27:813][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-16.53.27:813][ 79]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-16.53.27:827][ 79]LogAudioMixer: Display: Using Audio Device KG251Q (NVIDIA High Definition Audio)
+[2021.11.22-16.53.27:827][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.22-16.53.27:827][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.22-16.53.27:827][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.22-16.53.27:828][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.22-16.53.27:828][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.22-16.53.27:828][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.22-16.53.27:829][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.22-16.53.27:830][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.22-16.53.27:830][ 79]LogInit: FAudioDevice initialized.
+[2021.11.22-16.53.27:830][ 79]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonExampleMap'.
+[2021.11.22-16.53.27:842][ 79]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.22-16.53.27:845][ 79]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.11.22-16.53.27
+[2021.11.22-16.53.27:845][ 79]LogWorld: Bringing up level for play took: 0.002301
+[2021.11.22-16.53.27:845][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.11.22-16.53.27:850][ 79]PIE: Server logged in
+[2021.11.22-16.53.27:851][ 79]PIE: Play in editor total start time 0,117 seconds.
+[2021.11.22-16.53.28:332][107]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.11.22-16.53.28:332][107]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.28:382][110]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.11.22-16.53.28:382][110]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.29:314][164]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2021.11.22-16.53.29:315][164]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.29:363][167]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.11.22-16.53.29:363][167]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.29:835][195]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.11.22-16.53.29:835][195]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:000][205]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.22-16.53.30:001][205]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:056][208]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.11.22-16.53.30:056][208]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:061][208]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.11.22-16.53.30:061][208]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:176][215]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.22-16.53.30:176][215]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:349][225]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.22-16.53.30:349][225]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:480][233]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.11.22-16.53.30:480][233]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:695][246]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.11.22-16.53.30:695][246]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.30:851][255]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.22-16.53.30:851][255]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.22-16.53.32:489][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-16.53.32:489][350]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.22-16.53.32:489][350]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.53.32:489][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.53.32:499][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.22-16.53.32:514][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.53.32:531][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.22-16.53.32:531][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-16.53.32:532][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-16.53.32:534][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-16.53.32:537][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.22-16.53.32:567][351]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.11.22-16.53.35:438][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.11.22-16.53.36:422][521]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.22-16.53.36:494][521]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__PhysicsAsset.Climbing_Up_Wall__3__PhysicsAsset
+[2021.11.22-16.53.36:773][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.11.22-16.53.37:281][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.11.22-16.53.37:979][549]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.22-16.53.38:040][549]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3_.Climbing_Up_Wall__3_
+[2021.11.22-16.53.38:275][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.22-16.53.38:923][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.11.22-16.53.39:736][587]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.22-16.53.39:807][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.11.22-16.53.40:564][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.11.22-16.53.41:344][632]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.22-16.53.41:410][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.22-16.53.43:905][723]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Hanging Idle.fbx)
+[2021.11.22-16.53.43:919][723]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Hanging Idle.fbx
+[2021.11.22-16.53.44:002][723]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.53.45:679][723]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-16.53.45:700][723]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-16.53.45:700][723]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-16.53.45:700][723]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-16.53.45:700][723]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-16.53.45:706][723]LogMaterial: Display: Material /Game/Mannequin/AnimationsFinal/M_UE4Man_Body.M_UE4Man_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.22-16.53.45:707][723]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: F04AC65F73C0AAEDA8E6D8B6E57C9A5BC6A2E480), compiling. 
+[2021.11.22-16.53.45:728][723]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.22-16.53.45:730][723]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 9D95EB6D180AD4381EF50180FD21D8FAF2489A79), compiling. 
+[2021.11.22-16.53.45:733][723]LogMaterial: Display: Material /Game/Mannequin/AnimationsFinal/M_UE4Man_ChestLogo.M_UE4Man_ChestLogo needed to have new flag set bUsedWithSkeletalMesh !
+[2021.11.22-16.53.45:736][723]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 7352BB8AD09247B788371E5DE3F5FB1043221A54), compiling. 
+[2021.11.22-16.53.45:756][723]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2021.11.22-16.53.45:758][723]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: ABF938C0FD286DBA6939E6A0E97A92E21ACE79C8), compiling. 
+[2021.11.22-16.53.45:872][723]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-16.53.46:743][723]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.53.46:743][723]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.53.46:762][723]LogSkeletalMesh: Building Skeletal Mesh Hanging_Idle...
+[2021.11.22-16.53.47:558][723]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.53.47:558][723]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.53.47:618][723]LogSkeletalMesh: Built Skeletal Mesh [0.87s] /Game/Mannequin/AnimationsFinal/Hanging_Idle.Hanging_Idle
+[2021.11.22-16.53.47:651][723]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.53.47:651][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.53.47:659][723]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.53.47:659][723]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.53.47:659][723]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.53.47:659][723]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.53.47:659][723]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.53.47:659][723]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.53.47:660][723]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.53.47:661][723]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.53.47:662][723]LogFbx: Parsing AnimStack Take 001
+[2021.11.22-16.53.48:030][723]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Hanging_Idle_Anim_Take_001.Hanging_Idle_Anim_Take_001
+[2021.11.22-16.53.48:030][723]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.22-16.53.48:215][723]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.53.51:813][925]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton.Hanging_Idle_Skeleton
+[2021.11.22-16.53.51:833][925]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2021.11.22-16.53.51:845][925]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.11.22-16.53.51:923][925]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.22-16.53.51:999][925]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.53.52:006][925]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2021.11.22-16.54.08:965][864]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-16.54.25:233][805]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-16.54.25:240][805]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.54.25:240][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.54.25:255][805]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.54.25:255][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.54.33:228][261]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-16.54.34:846][354]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-16.54.34:851][354]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.54.34:851][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.54.34:865][354]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.54.34:865][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.54.56:869][595]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.55.00:904][818]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-16.55.05:006][ 54]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.55.05:006][ 54]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.55.05:015][ 54]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-16.55.05:020][ 54]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.55.05:020][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.55.05:039][ 54]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.55.05:039][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.55.05:098][ 55]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.55.09:489][303]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Hanging_Idle_Anim_mixamo_comB5CB9DDC49FD650DE4F13D84C01E7ABB.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Hanging_Idle_Anim_mixamo_com.uasset'
+[2021.11.22-16.55.09:626][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.11.22-16.55.09:674][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.22-16.55.09:696][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.22-16.55.09:735][303]AssetCheck: New page: Asset Save: Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.55.09:735][303]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.55.16:876][728]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-16.55.16:895][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.55.17:485][728]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.22-16.55.20:171][886]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.55.20:172][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.55.20:191][886]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.55.20:191][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.55.20:262][886]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.55.20:262][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.55.25:702][196]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Mannequin/Animations/BSP_ONWALL.BSP_ONWALL
+[2021.11.22-16.55.25:705][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.55.26:024][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.22-16.55.51:211][640]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Braced Hang Shimmy.fbx)
+[2021.11.22-16.55.51:224][640]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Braced Hang Shimmy.fbx
+[2021.11.22-16.55.51:318][640]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.55.55:735][640]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-16.55.55:758][640]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-16.55.55:758][640]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-16.55.55:758][640]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-16.55.55:758][640]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-16.55.55:896][640]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-16.55.56:774][640]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.55.56:774][640]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.55.56:782][640]LogSkeletalMesh: Building Skeletal Mesh Braced_Hang_Shimmy...
+[2021.11.22-16.55.57:565][640]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.55.57:565][640]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.55.57:634][640]LogSkeletalMesh: Built Skeletal Mesh [0.85s] /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy.Braced_Hang_Shimmy
+[2021.11.22-16.55.57:667][640]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.55.57:667][640]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.55.57:678][640]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.55.57:679][640]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.55.57:680][640]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.55.57:680][640]LogFbx: Parsing AnimStack Take 001
+[2021.11.22-16.55.58:061][640]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_Anim_Take_001.Braced_Hang_Shimmy_Anim_Take_001
+[2021.11.22-16.55.58:061][640]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.22-16.55.58:173][640]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.00:700][778]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.00:703][778]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.56.01:046][778]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.22-16.56.10:111][307]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.11.22-16.56.14:549][568]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.14:549][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.15:661][629]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.15:661][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.15:677][629]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.15:677][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.15:736][629]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.15:736][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.19:050][821]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.19:053][821]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.56.19:359][821]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.22-16.56.32:546][593]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Mannequin/AnimationsFinal/Hanging_Idle.Hanging_Idle
+[2021.11.22-16.56.32:550][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.56.33:317][619]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton.Hanging_Idle_Skeleton
+[2021.11.22-16.56.33:320][619]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.56.41:871][110]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.41:871][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.41:885][110]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.41:885][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.41:957][110]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.41:957][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.44:211][243]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.44:211][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.44:289][243]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.44:290][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.49:979][564]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-16.56.52:361][700]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.52:361][700]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.52:370][700]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-16.56.52:375][700]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.52:375][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.52:391][700]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.56.52:391][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.56.52:444][701]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.55:191][851]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy_Anim_mixamo_cF8CBF2FF41731967532CDBA610C01C77.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Braced_Hang_Shimmy_Anim_mixamo_com.uasset'
+[2021.11.22-16.56.55:341][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.11.22-16.56.55:399][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.11.22-16.56.55:420][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.22-16.56.55:460][851]AssetCheck: New page: Asset Save: Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.56.55:460][851]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-16.57.00:800][118]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Mannequin/Animations/BSP_ONWALL.BSP_ONWALL
+[2021.11.22-16.57.00:803][118]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-16.57.01:113][118]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.22-16.57.43:326][582]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Braced Hang Shimmy (1).fbx)
+[2021.11.22-16.57.43:341][582]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Braced Hang Shimmy (1).fbx
+[2021.11.22-16.57.43:424][582]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.57.58:268][582]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-16.57.58:319][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.22-16.57.58:323][582]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.11.22-16.57.58:656][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.22-16.57.58:657][582]FBXImport: Import was canceled. 
+[2021.11.22-16.57.58:691][582]LogAssetTools: The import task was canceled.
+[2021.11.22-16.57.59:808][643]LogSlate: Window 'Message Log' being destroyed
+[2021.11.22-16.57.59:812][643]LogSlate: Window 'Message Log' being destroyed
+[2021.11.22-16.58.04:147][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Braced Hang Shimmy (1).fbx)
+[2021.11.22-16.58.04:161][882]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Braced Hang Shimmy (1).fbx
+[2021.11.22-16.58.04:249][882]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.58.05:852][882]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-16.58.05:874][882]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-16.58.05:874][882]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-16.58.05:875][882]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-16.58.05:875][882]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-16.58.06:008][882]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-16.58.06:889][882]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.58.06:890][882]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.58.06:898][882]LogSkeletalMesh: Building Skeletal Mesh Braced_Hang_Shimmy__1_...
+[2021.11.22-16.58.07:732][882]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.58.07:732][882]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.58.07:800][882]LogSkeletalMesh: Built Skeletal Mesh [0.90s] /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_.Braced_Hang_Shimmy__1_
+[2021.11.22-16.58.07:831][882]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.58.07:831][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.58.07:842][882]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.58.07:843][882]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.58.07:844][882]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.58.07:844][882]LogFbx: Parsing AnimStack Take 001
+[2021.11.22-16.58.08:229][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__Anim_Take_001.Braced_Hang_Shimmy__1__Anim_Take_001
+[2021.11.22-16.58.08:229][882]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.22-16.58.08:341][882]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__Anim_mixamo_com.Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-16.58.12:756][116]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-16.58.15:126][253]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Braced_Hang_Shimmy__1__Anim_mixamo_com.Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-16.58.15:126][253]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Braced_Hang_Shimmy__1__Anim_mixamo_com.Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-16.58.15:135][253]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-16.58.15:143][253]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.58.15:144][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.58.15:162][253]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.58.15:162][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.58.15:219][254]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Braced_Hang_Shimmy__1__Anim_mixamo_com.Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-16.58.17:915][397]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy__1__Anim_mixa95A23CE5443088E608F1F99F95B4C49C.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Braced_Hang_Shimmy__1__Anim_mixamo_com.uasset'
+[2021.11.22-16.58.18:000][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.11.22-16.58.18:038][397]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.11.22-16.58.18:059][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.11.22-16.58.18:124][397]AssetCheck: New page: Asset Save: Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-16.58.18:124][397]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Braced_Hang_Shimmy__1__Anim_mixamo_com.Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-16.58.46:504][  0]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Climbing Up Wall (3).fbx)
+[2021.11.22-16.58.46:518][  0]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Climbing Up Wall (3).fbx
+[2021.11.22-16.58.46:598][  0]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-16.58.47:756][  0]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-16.58.47:776][  0]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-16.58.47:776][  0]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-16.58.47:777][  0]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-16.58.47:777][  0]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-16.58.47:897][  0]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-16.58.48:794][  0]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.58.48:794][  0]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.58.48:803][  0]LogSkeletalMesh: Building Skeletal Mesh Climbing_Up_Wall__3_...
+[2021.11.22-16.58.49:605][  0]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-16.58.49:605][  0]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-16.58.49:668][  0]LogSkeletalMesh: Built Skeletal Mesh [0.87s] /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3_.Climbing_Up_Wall__3_
+[2021.11.22-16.58.49:698][  0]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.58.49:698][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.58.49:710][  0]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(47) head
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-16.58.49:711][  0]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-16.58.49:712][  0]LogFbx: Parsing AnimStack Take 001
+[2021.11.22-16.59.11:750][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__Anim_Take_001.Climbing_Up_Wall__3__Anim_Take_001
+[2021.11.22-16.59.11:766][  0]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.22-16.59.21:592][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
