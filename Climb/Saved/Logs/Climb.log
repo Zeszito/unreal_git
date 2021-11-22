@@ -4532,3 +4532,440 @@ Would you like to regenerate the Skeleton from this mesh?
 [2021.11.22-16.59.11:750][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__Anim_Take_001.Climbing_Up_Wall__3__Anim_Take_001
 [2021.11.22-16.59.11:766][  0]LogFbx: Parsing AnimStack mixamo.com
 [2021.11.22-16.59.21:592][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-16.59.48:272][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.11.22-16.59.48:306][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonExampleMap_Auto95390BCDE40B1B6846E20C6B30747A982.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2021.11.22-16.59.48:308][315]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.062
+[2021.11.22-16.59.48:308][315]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2021.11.22-16.59.48:308][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2021.11.22-16.59.48:308][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2021.11.22-16.59.48:313][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/UE4_Mannequin_Skeleton_Auto9252D421A484057AE9425E89A9D81CB14.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto9.uasset'
+[2021.11.22-16.59.48:315][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([4] browsable assets)...
+[2021.11.22-16.59.48:323][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.11.22-16.59.48:330][315]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.11.22-16.59.48:330][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.11.22-16.59.48:415][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonCharacter_Auto94587580D4938592069D745B9A3657F87.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto9.uasset'
+[2021.11.22-16.59.48:417][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/BSP_ONWALL] ([1] browsable assets)...
+[2021.11.22-16.59.48:425][315]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Mannequin/Animations/BSP_ONWALL.BSP_ONWALL]
+[2021.11.22-16.59.48:425][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/BSP_ONWALL]
+[2021.11.22-16.59.48:432][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/BSP_ONWALL_Auto90424B8E94935E03470193CA9A79C44DE.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/Animations/BSP_ONWALL_Auto9.uasset'
+[2021.11.22-16.59.48:433][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Hanging_Idle] ([1] browsable assets)...
+[2021.11.22-16.59.48:441][315]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/AnimationsFinal/Hanging_Idle.Hanging_Idle]
+[2021.11.22-16.59.48:441][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Hanging_Idle]
+[2021.11.22-16.59.48:526][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Hanging_Idle_Auto9530074294889F741B896C4B8E28DC7EC.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Hanging_Idle_Auto9.uasset'
+[2021.11.22-16.59.48:526][315]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton] ([1] browsable assets)...
+[2021.11.22-16.59.48:526][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton]
+[2021.11.22-16.59.48:531][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Hanging_Idle_Skeleton_Auto9A0B1FBCD4D665AB6901C92A4945989F6.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton_Auto9.uasset'
+[2021.11.22-16.59.48:532][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Hanging_Idle_PhysicsAsset] ([1] browsable assets)...
+[2021.11.22-16.59.48:540][315]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/AnimationsFinal/Hanging_Idle_PhysicsAsset.Hanging_Idle_PhysicsAsset]
+[2021.11.22-16.59.48:540][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Hanging_Idle_PhysicsAsset]
+[2021.11.22-16.59.48:552][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Hanging_Idle_PhysicsAsset_Auto9F06E0A8D48B7F7F6D1C6E780536CF697.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Hanging_Idle_PhysicsAsset_Auto9.uasset'
+[2021.11.22-16.59.48:553][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy] ([1] browsable assets)...
+[2021.11.22-16.59.48:560][315]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy.Braced_Hang_Shimmy]
+[2021.11.22-16.59.48:560][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy]
+[2021.11.22-16.59.48:636][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy_Auto9FEF8CBDA4308D5A569F989948962323C.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_Auto9.uasset'
+[2021.11.22-16.59.48:637][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_PhysicsAsset] ([1] browsable assets)...
+[2021.11.22-16.59.48:645][315]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_PhysicsAsset.Braced_Hang_Shimmy_PhysicsAsset]
+[2021.11.22-16.59.48:645][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_PhysicsAsset]
+[2021.11.22-16.59.48:657][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy_PhysicsAsset_0EBE81E84FAD3ADA37E275B545FF177E.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy_PhysicsAsset_Auto9.uasset'
+[2021.11.22-16.59.48:658][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_] ([1] browsable assets)...
+[2021.11.22-16.59.48:666][315]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_.Braced_Hang_Shimmy__1_]
+[2021.11.22-16.59.48:666][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1_]
+[2021.11.22-16.59.48:745][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy__1__Auto970C76D964F332D980D2C8A9A098BAAF8.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__Auto9.uasset'
+[2021.11.22-16.59.48:746][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__PhysicsAsset] ([1] browsable assets)...
+[2021.11.22-16.59.48:754][315]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__PhysicsAsset.Braced_Hang_Shimmy__1__PhysicsAsset]
+[2021.11.22-16.59.48:754][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__PhysicsAsset]
+[2021.11.22-16.59.48:766][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy__1__PhysicsAs9B88C5934ACC7EA93DA268A902741EF2.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Braced_Hang_Shimmy__1__PhysicsAsset_Auto9.uasset'
+[2021.11.22-16.59.48:767][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3_] ([1] browsable assets)...
+[2021.11.22-16.59.48:775][315]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3_.Climbing_Up_Wall__3_]
+[2021.11.22-16.59.48:775][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3_]
+[2021.11.22-16.59.48:853][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Up_Wall__3__Auto9106C3FD04D3E7F9AF82316A4E12BD8AC.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__Auto9.uasset'
+[2021.11.22-16.59.48:854][315]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__PhysicsAsset] ([1] browsable assets)...
+[2021.11.22-16.59.48:863][315]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__PhysicsAsset.Climbing_Up_Wall__3__PhysicsAsset]
+[2021.11.22-16.59.48:863][315]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__PhysicsAsset]
+[2021.11.22-16.59.48:875][315]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Up_Wall__3__PhysicsAsse3CD5A1FE410753EDED8F5AB2A25B308A.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Climbing_Up_Wall__3__PhysicsAsset_Auto9.uasset'
+[2021.11.22-16.59.48:875][315]LogFileHelpers: Auto-saving content packages took 0.567
+[2021.11.22-16.59.55:466][696]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-16.59.57:204][778]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-16.59.57:204][778]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-16.59.57:234][778]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-16.59.57:241][778]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.59.57:241][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.59.57:271][778]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-16.59.57:272][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-16.59.57:399][778]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-17.00.02:021][896]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Up_Wall__3__Anim_mixamo50E9456942C32F34381A8CA83DB97DC8.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Climbing_Up_Wall__3__Anim_mixamo_com.uasset'
+[2021.11.22-17.00.02:134][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.11.22-17.00.02:189][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.11.22-17.00.02:210][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.22-17.00.02:275][896]AssetCheck: New page: Asset Save: Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-17.00.02:275][896]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-17.00.27:791][110]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\senho\Downloads\Climbing Down Wall.fbx)
+[2021.11.22-17.00.27:806][110]LogFbx: Loading FBX Scene from C:\Users\senho\Downloads\Climbing Down Wall.fbx
+[2021.11.22-17.00.27:889][110]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.22-17.00.29:353][110]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.22-17.00.29:373][110]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node SK_Mannequin1 : The relative matrices do not match
+[2021.11.22-17.00.29:373][110]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.11.22-17.00.29:374][110]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - SK_Mannequin1
+[2021.11.22-17.00.29:374][110]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.11.22-17.00.29:492][110]LogFbx: Warning: Bones digested - 60  Depth of hierarchy - 11
+[2021.11.22-17.00.30:354][110]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-17.00.30:354][110]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-17.00.30:364][110]LogSkeletalMesh: Building Skeletal Mesh Climbing_Down_Wall...
+[2021.11.22-17.00.31:131][110]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2021.11.22-17.00.31:131][110]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2021.11.22-17.00.31:190][110]LogSkeletalMesh: Built Skeletal Mesh [0.83s] /Game/Mannequin/AnimationsFinal/Climbing_Down_Wall.Climbing_Down_Wall
+[2021.11.22-17.00.31:210][110]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-17.00.31:210][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.00.31:220][110]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-17.00.31:220][110]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(47) head
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(0) pelvis
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(1) spine_01
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(2) spine_02
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(3) spine_03
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(4) clavicle_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(5) upperarm_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(6) lowerarm_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(7) hand_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(8) index_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(9) index_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(10) index_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(11) middle_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(12) middle_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(13) middle_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(14) pinky_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(15) pinky_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(16) pinky_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(17) ring_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(18) ring_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(19) ring_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(20) thumb_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(21) thumb_02_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(22) thumb_03_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(23) lowerarm_twist_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(24) upperarm_twist_01_l
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(25) clavicle_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(26) upperarm_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(27) lowerarm_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(28) hand_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(29) index_01_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(30) index_02_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(31) index_03_r
+[2021.11.22-17.00.31:221][110]LogFbx: SortedLinks :(32) middle_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(33) middle_02_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(34) middle_03_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(35) pinky_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(36) pinky_02_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(37) pinky_03_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(38) ring_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(39) ring_02_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(40) ring_03_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(41) thumb_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(42) thumb_02_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(43) thumb_03_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(44) lowerarm_twist_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(45) upperarm_twist_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(46) neck_01
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(47) head
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(48) thigh_l
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(49) calf_l
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(50) calf_twist_01_l
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(51) foot_l
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(52) ball_l
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(53) thigh_twist_01_l
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(54) thigh_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(55) calf_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(56) calf_twist_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(57) foot_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(58) ball_r
+[2021.11.22-17.00.31:222][110]LogFbx: SortedLinks :(59) thigh_twist_01_r
+[2021.11.22-17.00.31:222][110]LogFbx: Parsing AnimStack Take 001
+[2021.11.22-17.00.53:580][110]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_Anim_Take_001.Climbing_Down_Wall_Anim_Take_001
+[2021.11.22-17.00.53:602][110]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.22-17.01.04:110][110]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_Anim_mixamo_com.Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.30:562][674]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.22-17.01.32:645][778]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Climbing_Down_Wall_Anim_mixamo_com.Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.32:645][778]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Climbing_Down_Wall_Anim_mixamo_com.Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.32:678][778]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.22-17.01.32:692][778]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-17.01.32:692][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.01.32:710][778]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-17.01.32:710][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.01.32:835][778]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Climbing_Down_Wall_Anim_mixamo_com.Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.37:000][913]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Down_Wall_Anim_mixamo_c2048847543B60D3E2823D0A9822F1F13.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Climbing_Down_Wall_Anim_mixamo_com.uasset'
+[2021.11.22-17.01.37:103][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.11.22-17.01.37:173][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.22-17.01.37:194][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.22-17.01.37:260][913]AssetCheck: New page: Asset Save: Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.37:260][913]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/Climbing_Down_Wall_Anim_mixamo_com.Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.41:286][143]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.22-17.01.41:302][143]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.22-17.01.46:673][466]LogContentBrowser: Attempting asset rename: NewFolder -> animacoesClimbingUsadas
+[2021.11.22-17.01.46:673][466]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.22-17.01.48:986][604]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Gunplay_Anim_mixamo_com.Gunplay_Anim_mixamo_com
+[2021.11.22-17.01.50:478][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Hanging_Idle_Anim_mixamo_comCD530FD14B1E5EDD23F89694EDD055E3.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/animacoesClimbingUsadas/Hanging_Idle_Anim_mixamo_com.uasset'
+[2021.11.22-17.01.50:493][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy__1__Anim_mixa348D0243460DBF96E34296A12E8EAD9F.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/animacoesClimbingUsadas/Braced_Hang_Shimmy__1__Anim_mixamo_com.uasset'
+[2021.11.22-17.01.50:508][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Braced_Hang_Shimmy_Anim_mixamo_c8489E1E3475DB04403EE67BCF420BD27.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/animacoesClimbingUsadas/Braced_Hang_Shimmy_Anim_mixamo_com.uasset'
+[2021.11.22-17.01.50:543][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Down_Wall_Anim_mixamo_c9F91DF1842EB53FF60873D9CA320093B.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/animacoesClimbingUsadas/Climbing_Down_Wall_Anim_mixamo_com.uasset'
+[2021.11.22-17.01.50:584][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Up_Wall__3__Anim_mixamo52F7B6A847362B50F269B7A98835FBAC.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/animacoesClimbingUsadas/Climbing_Up_Wall__3__Anim_mixamo_com.uasset'
+[2021.11.22-17.01.50:599][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Gunplay_Anim_mixamo_com34925B57476FE5A3C133709314265756.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/animacoesClimbingUsadas/Gunplay_Anim_mixamo_com.uasset'
+[2021.11.22-17.01.50:742][680]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.11.22-17.01.50:766][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2021.11.22-17.01.50:788][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.22-17.01.50:809][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.22-17.01.50:829][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.22-17.01.50:850][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.22-17.01.50:880][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.11.22-17.01.50:901][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.11.22-17.01.50:930][680]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/shootAnim_BPs6A39F27E4A807D4BB0478F87F9C41A4F.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/shootAnim_BPs.uasset'
+[2021.11.22-17.01.51:017][680]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/animacoesClimbingUsadas/Climbing_Down_Wall_Anim_mixamo_com.Climbing_Down_Wall_Anim_mixamo_com
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/animacoesClimbingUsadas/Braced_Hang_Shimmy__1__Anim_mixamo_com.Braced_Hang_Shimmy__1__Anim_mixamo_com
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/animacoesClimbingUsadas/Climbing_Up_Wall__3__Anim_mixamo_com.Climbing_Up_Wall__3__Anim_mixamo_com
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating BlendSpace /Game/Mannequin/Animations/shootAnim_BPs.shootAnim_BPs
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/animacoesClimbingUsadas/Hanging_Idle_Anim_mixamo_com.Hanging_Idle_Anim_mixamo_com
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/animacoesClimbingUsadas/Braced_Hang_Shimmy_Anim_mixamo_com.Braced_Hang_Shimmy_Anim_mixamo_com
+[2021.11.22-17.01.51:017][680]LogContentValidation: Display: Validating AnimSequence /Game/Mannequin/animacoesClimbingUsadas/Gunplay_Anim_mixamo_com.Gunplay_Anim_mixamo_com
+[2021.11.22-17.02.07:881][637]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/BSP_ONWALL4701909D467D2AD70A18C09D8E23370B.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/BSP_ONWALL.uasset'
+[2021.11.22-17.02.07:898][637]AssetCheck: New page: Asset Save: BSP_ONWALL
+[2021.11.22-17.02.07:898][637]LogContentValidation: Display: Validating BlendSpace /Game/Mannequin/Animations/BSP_ONWALL.BSP_ONWALL
+[2021.11.22-17.02.09:644][734]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.22-17.02.09:652][734]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.22-17.02.09:653][734]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.11.22-17.02.09:775][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.11.22-17.02.09:778][734]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2021.11.22-17.02.09:778][734]PIE: New page: PIE session: ThirdPersonExampleMap (22/11/2021, 17:02:09)
+[2021.11.22-17.02.09:779][734]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.22-17.02.09:789][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010230s)
+[2021.11.22-17.02.09:790][734]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.22-17.02.09:791][734]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2021.11.22-17.02.09:791][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012482s)
+[2021.11.22-17.02.09:822][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.11.22-17.02.09:823][734]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.22-17.02.09:823][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.22-17.02.09:823][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.22-17.02.09:824][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.22-17.02.09:824][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.22-17.02.09:824][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.22-17.02.09:824][734]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.22-17.02.09:827][734]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-17.02.09:827][734]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-17.02.09:839][734]LogAudioMixer: Display: Using Audio Device KG251Q (NVIDIA High Definition Audio)
+[2021.11.22-17.02.09:839][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.22-17.02.09:839][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.22-17.02.09:839][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.22-17.02.09:839][734]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.22-17.02.09:839][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.22-17.02.09:839][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.22-17.02.09:841][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.22-17.02.09:841][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.22-17.02.09:841][734]LogInit: FAudioDevice initialized.
+[2021.11.22-17.02.09:841][734]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonExampleMap'.
+[2021.11.22-17.02.09:850][734]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.22-17.02.09:853][734]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.11.22-17.02.09
+[2021.11.22-17.02.09:853][734]LogWorld: Bringing up level for play took: 0.001810
+[2021.11.22-17.02.09:853][734]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.11.22-17.02.09:856][734]PIE: Server logged in
+[2021.11.22-17.02.09:857][734]PIE: Play in editor total start time 0,208 seconds.
+[2021.11.22-17.02.14:066][978]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.02.14:749][ 19]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.02.16:032][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-17.02.16:032][ 94]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.22-17.02.16:032][ 94]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-17.02.16:032][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.02.16:049][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.22-17.02.16:066][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.02.16:087][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-17.02.16:088][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-17.02.16:089][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-17.02.16:094][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.11.22-17.02.16:123][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.11.22-17.02.41:605][111]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.22-17.02.41:614][111]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.22-17.02.42:513][111]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.22-17.03.32:246][432]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/BSP_ONWALL13B3C7CD434F5DFFF1F4F0A2321740F1.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/BSP_ONWALL.uasset'
+[2021.11.22-17.03.32:263][432]AssetCheck: New page: Asset Save: BSP_ONWALL
+[2021.11.22-17.03.32:263][432]LogContentValidation: Display: Validating BlendSpace /Game/Mannequin/Animations/BSP_ONWALL.BSP_ONWALL
+[2021.11.22-17.06.56:308][507]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.11.22-17.06.56:373][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.11.22-17.06.57:301][552]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPerson_AnimBPB2FD5E644FCDDCE88C2BD0AFAB3A7F36.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.11.22-17.06.57:318][552]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.11.22-17.06.57:318][552]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.22-17.08.47:701][111]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.11.22-17.08.47:757][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.11.22-17.08.48:452][144]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPerson_AnimBP9F1594FC4874A3DDF13555BC56E49319.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.11.22-17.08.48:470][144]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.11.22-17.08.48:470][144]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.22-17.09.56:527][  8]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.11.22-17.09.56:583][  8]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.22-17.09.57:102][ 31]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPerson_AnimBPF180153C4D4FE77740E66D827D8A7521.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.11.22-17.09.57:122][ 31]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.11.22-17.09.57:123][ 31]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.22-17.10.19:655][734]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.11.22-17.10.19:714][734]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.11.22-17.10.20:278][759]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPerson_AnimBP6B8C7C7D4B6F8652AB55B395F5421AEB.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.11.22-17.10.20:297][759]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.11.22-17.10.20:297][759]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.22-17.10.37:363][383]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.11.22-17.10.37:420][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.22-17.10.38:019][411]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPerson_AnimBP6EAEE92647E7C295F7A5D6AF4566954B.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.11.22-17.10.38:038][411]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.11.22-17.10.38:038][411]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.11.22-17.10.59:186][915]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.22-17.10.59:197][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.22-17.10.59:197][915]PIE: New page: PIE session: ThirdPersonExampleMap (22/11/2021, 17:10:59)
+[2021.11.22-17.10.59:197][915]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.22-17.10.59:206][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008736s)
+[2021.11.22-17.10.59:207][915]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.22-17.10.59:208][915]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2021.11.22-17.10.59:208][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010319s)
+[2021.11.22-17.10.59:238][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.11.22-17.10.59:239][915]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.22-17.10.59:239][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.22-17.10.59:239][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.22-17.10.59:240][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.22-17.10.59:240][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.22-17.10.59:240][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.22-17.10.59:240][915]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.22-17.10.59:243][915]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.22-17.10.59:243][915]LogAudioMixer: Display: 1: FrontRight
+[2021.11.22-17.10.59:251][915]LogAudioMixer: Display: Using Audio Device KG251Q (NVIDIA High Definition Audio)
+[2021.11.22-17.10.59:252][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.22-17.10.59:252][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.22-17.10.59:252][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.22-17.10.59:252][915]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.22-17.10.59:252][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.22-17.10.59:252][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.22-17.10.59:253][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.22-17.10.59:253][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.22-17.10.59:253][915]LogInit: FAudioDevice initialized.
+[2021.11.22-17.10.59:253][915]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonExampleMap'.
+[2021.11.22-17.10.59:270][915]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.22-17.10.59:271][915]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.11.22-17.10.59
+[2021.11.22-17.10.59:272][915]LogWorld: Bringing up level for play took: 0.001481
+[2021.11.22-17.10.59:272][915]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.11.22-17.10.59:274][915]PIE: Server logged in
+[2021.11.22-17.10.59:275][915]PIE: Play in editor total start time 0,082 seconds.
+[2021.11.22-17.11.02:687][117]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.03:905][190]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.04:505][226]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.07:888][429]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.13:021][737]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.13:755][781]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.17:822][ 25]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.18:389][ 59]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.20:306][174]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.20:922][211]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.21:472][244]LogScript: Warning: Script Msg: A null object was passed as a world context object to UEngine::GetWorldFromContextObject().
+[2021.11.22-17.11.22:615][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-17.11.22:615][311]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.22-17.11.22:615][311]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.22-17.11.22:616][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.11.22:658][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.22-17.11.22:674][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.22-17.11.22:699][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.22-17.11.22:700][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-17.11.22:701][311]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.22-17.11.22:707][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.11.22-17.11.22:738][312]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.11.22-17.11.46:354][542]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.11.22-17.11.46:431][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.11.22-17.11.46:903][556]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonCharacterAC7D88CE43873A78D66851B044690CD3.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.22-17.11.46:922][556]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.11.22-17.11.46:922][556]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.22-17.11.47:883][610]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.11.22-17.11.47:902][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPersonExampleMap_Auto09C3EBFE64EFC093C37D3FAB18FA08081.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2021.11.22-17.11.47:904][610]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.051
+[2021.11.22-17.11.47:904][610]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.11.22-17.11.47:904][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2021.11.22-17.11.47:904][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton]
+[2021.11.22-17.11.47:909][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/UE4_Mannequin_Skeleton_Auto09937F3FC49049207093235A0722FC8E5.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton_Auto0.uasset'
+[2021.11.22-17.11.47:909][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([2] browsable assets)...
+[2021.11.22-17.11.47:918][610]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2021.11.22-17.11.47:918][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2021.11.22-17.11.47:965][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/ThirdPerson_AnimBP_Auto0A1A60A2C4865E9278DE6999E7849C4BF.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto0.uasset'
+[2021.11.22-17.11.47:966][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/BSP_ONWALL] ([1] browsable assets)...
+[2021.11.22-17.11.47:974][610]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Mannequin/Animations/BSP_ONWALL.BSP_ONWALL]
+[2021.11.22-17.11.47:974][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/BSP_ONWALL]
+[2021.11.22-17.11.47:980][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/BSP_ONWALL_Auto01C0A597446226CE5E42F899791245D5E.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/Animations/BSP_ONWALL_Auto0.uasset'
+[2021.11.22-17.11.47:980][610]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton] ([1] browsable assets)...
+[2021.11.22-17.11.47:980][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton]
+[2021.11.22-17.11.47:985][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Hanging_Idle_Skeleton_Auto0FF00C52242339AE6814C6EB96105039E.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Hanging_Idle_Skeleton_Auto0.uasset'
+[2021.11.22-17.11.47:985][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Climbing_Down_Wall] ([1] browsable assets)...
+[2021.11.22-17.11.47:994][610]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Mannequin/AnimationsFinal/Climbing_Down_Wall.Climbing_Down_Wall]
+[2021.11.22-17.11.47:994][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Climbing_Down_Wall]
+[2021.11.22-17.11.48:076][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Down_Wall_Auto07A16C33344444EAC7257B991D07EDC0E.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_Auto0.uasset'
+[2021.11.22-17.11.48:077][610]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_PhysicsAsset] ([1] browsable assets)...
+[2021.11.22-17.11.48:084][610]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_PhysicsAsset.Climbing_Down_Wall_PhysicsAsset]
+[2021.11.22-17.11.48:084][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_PhysicsAsset]
+[2021.11.22-17.11.48:096][610]LogSavePackage: Moving '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Climbing_Down_Wall_PhysicsAsset_3AF4EE2741E0EB437959279E2BC897BC.tmp' to '../../../../../../Users/senho/OneDrive/Documents/GitHub/unreal_git/Climb/Saved/Autosaves/Game/Mannequin/AnimationsFinal/Climbing_Down_Wall_PhysicsAsset_Auto0.uasset'
+[2021.11.22-17.11.48:097][610]LogFileHelpers: Auto-saving content packages took 0.194
