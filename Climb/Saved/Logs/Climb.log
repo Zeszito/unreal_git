@@ -3246,3 +3246,351 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.11.23-00.09.42:594][821]LogPlayLevel: Display: Destroying online subsystem :Context_43
 [2021.11.23-00.09.43:672][871]LogSlate: Window 'Message Log' being destroyed
 [2021.11.23-00.09.43:683][871]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-00.11.21:318][ 92]BlueprintLog: New page: Compile zombie_bp
+[2021.11.23-00.11.21:375][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.11.23-00.11.23:004][180]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-00.11.23:008][180]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-00.11.23:008][180]PIE: New page: PIE session: ZombiePlaygorund (23/11/2021, 00:11:23)
+[2021.11.23-00.11.23:050][180]LogPlayLevel: Creating play world package: /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.11.23:052][180]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002234s)
+[2021.11.23-00.11.23:053][180]LogAIModule: Creating AISystem for world ZombiePlaygorund
+[2021.11.23-00.11.23:053][180]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2021.11.23-00.11.23:053][180]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zombie/ZombiMaps/ZombiePlaygorund.ZombiePlaygorund to /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund (0.003505s)
+[2021.11.23-00.11.23:077][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.23-00.11.23:077][180]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-00.11.23:078][180]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-00.11.23:078][180]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-00.11.23:078][180]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-00.11.23:078][180]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-00.11.23:078][180]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-00.11.23:080][180]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-00.11.23:080][180]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-00.11.23:103][180]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23-00.11.23:103][180]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-00.11.23:103][180]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-00.11.23:103][180]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-00.11.23:104][180]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-00.11.23:104][180]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-00.11.23:104][180]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-00.11.23:105][180]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-00.11.23:105][180]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-00.11.23:105][180]LogInit: FAudioDevice initialized.
+[2021.11.23-00.11.23:105][180]LogAudio: Display: Audio Device (ID: 31) registered with world 'ZombiePlaygorund'.
+[2021.11.23-00.11.23:114][180]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.23-00.11.23:116][180]LogWorld: Bringing World /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund up for play (max tick rate 60) at 2021.11.23-00.11.23
+[2021.11.23-00.11.23:116][180]LogWorld: Bringing up level for play took: 0.000541
+[2021.11.23-00.11.23:116][180]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.11.23-00.11.23:119][180]PIE: Server logged in
+[2021.11.23-00.11.23:120][180]PIE: Play in editor total start time 0,112 seconds.
+[2021.11.23-00.11.51:142][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.11.51:142][858]LogWorld: BeginTearingDown for /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.11.51:142][858]LogWorld: UWorld::CleanupWorld for ZombiePlaygorund, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-00.11.51:143][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.11.51:170][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-00.11.51:184][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.11.51:205][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-00.11.51:206][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.11.51:206][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.11.51:210][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.11.51:212][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.11.23-00.11.51:239][859]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.11.23-00.14.12:685][146]BlueprintLog: New page: Compile zombie_bp
+[2021.11.23-00.14.12:769][146]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.11.23-00.14.24:695][814]LogEditorTransaction: Undo Make New Scene Root
+[2021.11.23-00.14.35:959][451]LogEditorTransaction: Undo Remove Components
+[2021.11.23-00.14.53:308][442]LogEditorTransaction: Undo Remove Components
+[2021.11.23-00.14.53:798][450]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.14.53:957][457]LogEditorTransaction: Undo Make New Scene Root
+[2021.11.23-00.14.54:184][467]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.14.54:382][478]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.14.54:607][491]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.14.54:831][504]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.14.55:157][523]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.56:065][576]LogEditorTransaction: Undo Set Rotation
+[2021.11.23-00.14.56:326][590]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.56:544][601]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.56:767][614]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.14.56:996][625]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.14.58:654][723]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.14.58:961][741]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.59:230][755]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.59:486][770]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.59:728][784]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.14.59:936][796]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.15.00:162][809]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.15.00:355][820]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.15.00:562][832]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.15.00:766][843]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.15.00:957][854]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.01:167][864]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.15.01:397][877]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.23-00.15.01:639][891]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.01:854][903]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.15.02:069][914]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.02:333][929]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.15.02:601][944]LogEditorTransaction: Undo Make New Scene Root
+[2021.11.23-00.15.03:203][979]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.15.03:580][  1]LogEditorTransaction: Undo Add Component
+[2021.11.23-00.15.04:234][ 39]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.04:577][ 56]LogEditorTransaction: Undo Create Pin Link
+[2021.11.23-00.15.04:850][ 69]LogEditorTransaction: Undo Change Number Pin Value
+[2021.11.23-00.15.05:095][ 80]LogEditorTransaction: Undo Create Pin Link
+[2021.11.23-00.15.05:361][ 94]LogEditorTransaction: Undo Add Node
+[2021.11.23-00.15.05:909][125]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.06:278][145]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.06:687][168]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.07:879][238]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.08:091][249]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.08:318][261]LogEditorTransaction: Undo Move Node
+[2021.11.23-00.15.09:517][330]LogEditorTransaction: Undo Change Number Pin Value
+[2021.11.23-00.15.09:725][340]LogEditorTransaction: Undo Change Number Pin Value
+[2021.11.23-00.15.09:966][353]LogEditorTransaction: Undo Remove Components
+[2021.11.23-00.15.10:568][386]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.15.11:475][437]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.11:781][453]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.12:163][475]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.12:505][495]LogEditorTransaction: Undo Attach Component
+[2021.11.23-00.15.12:889][517]LogEditorTransaction: Undo Add Component
+[2021.11.23-00.15.13:257][537]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.14:004][579]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.14:393][602]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.14:735][622]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.15:308][656]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.15:709][679]LogEditorTransaction: Undo Set Scale
+[2021.11.23-00.15.16:029][697]LogEditorTransaction: Undo Move Actors
+[2021.11.23-00.15.16:436][720]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.23-00.15.16:828][742]LogEditorTransaction: Undo Clicking on Actors
+[2021.11.23-00.15.18:075][816]LogEditorTransaction: Undo Remove Components
+[2021.11.23-00.15.19:809][918]LogEditorTransaction: Undo Make New Scene Root
+[2021.11.23-00.16.49:571][107]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.23-00.17.11:524][378]BlueprintLog: New page: Compile zombie_bp
+[2021.11.23-00.17.11:620][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.11.23-00.17.14:004][508]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-00.17.14:008][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-00.17.14:008][508]PIE: New page: PIE session: ZombiePlaygorund (23/11/2021, 00:17:14)
+[2021.11.23-00.17.14:008][508]LogPlayLevel: Creating play world package: /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.17.14:010][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002062s)
+[2021.11.23-00.17.14:011][508]LogAIModule: Creating AISystem for world ZombiePlaygorund
+[2021.11.23-00.17.14:011][508]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2021.11.23-00.17.14:012][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zombie/ZombiMaps/ZombiePlaygorund.ZombiePlaygorund to /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund (0.003330s)
+[2021.11.23-00.17.14:039][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.11.23-00.17.14:040][508]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-00.17.14:040][508]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-00.17.14:040][508]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-00.17.14:041][508]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-00.17.14:041][508]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-00.17.14:041][508]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-00.17.14:041][508]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-00.17.14:043][508]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-00.17.14:043][508]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-00.17.14:067][508]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23-00.17.14:067][508]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-00.17.14:067][508]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-00.17.14:067][508]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-00.17.14:068][508]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-00.17.14:068][508]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-00.17.14:068][508]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-00.17.14:069][508]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-00.17.14:069][508]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-00.17.14:069][508]LogInit: FAudioDevice initialized.
+[2021.11.23-00.17.14:069][508]LogAudio: Display: Audio Device (ID: 32) registered with world 'ZombiePlaygorund'.
+[2021.11.23-00.17.14:076][508]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.23-00.17.14:078][508]LogWorld: Bringing World /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund up for play (max tick rate 60) at 2021.11.23-00.17.14
+[2021.11.23-00.17.14:078][508]LogWorld: Bringing up level for play took: 0.000541
+[2021.11.23-00.17.14:078][508]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.11.23-00.17.14:082][508]PIE: Server logged in
+[2021.11.23-00.17.14:082][508]PIE: Play in editor total start time 0,074 seconds.
+[2021.11.23-00.17.18:900][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.17.18:900][794]LogWorld: BeginTearingDown for /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.17.18:900][794]LogWorld: UWorld::CleanupWorld for ZombiePlaygorund, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-00.17.18:900][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.17.18:909][794]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-00.17.18:928][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.17.18:950][794]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-00.17.18:950][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.17.18:951][794]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.17.18:954][794]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.17.18:957][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.23-00.17.18:986][795]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.11.23-00.17.23:137][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-00.17.23:142][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-00.17.23:142][ 35]PIE: New page: PIE session: ZombiePlaygorund (23/11/2021, 00:17:23)
+[2021.11.23-00.17.23:142][ 35]LogPlayLevel: Creating play world package: /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.17.23:144][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001913s)
+[2021.11.23-00.17.23:145][ 35]LogAIModule: Creating AISystem for world ZombiePlaygorund
+[2021.11.23-00.17.23:145][ 35]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2021.11.23-00.17.23:145][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zombie/ZombiMaps/ZombiePlaygorund.ZombiePlaygorund to /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund (0.003000s)
+[2021.11.23-00.17.23:169][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.11.23-00.17.23:170][ 35]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-00.17.23:170][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-00.17.23:170][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-00.17.23:170][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-00.17.23:170][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-00.17.23:170][ 35]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-00.17.23:173][ 35]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-00.17.23:173][ 35]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-00.17.23:195][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-00.17.23:196][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-00.17.23:196][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-00.17.23:196][ 35]LogInit: FAudioDevice initialized.
+[2021.11.23-00.17.23:196][ 35]LogAudio: Display: Audio Device (ID: 33) registered with world 'ZombiePlaygorund'.
+[2021.11.23-00.17.23:203][ 35]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.23-00.17.23:204][ 35]LogWorld: Bringing World /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund up for play (max tick rate 60) at 2021.11.23-00.17.23
+[2021.11.23-00.17.23:204][ 35]LogWorld: Bringing up level for play took: 0.000571
+[2021.11.23-00.17.23:204][ 35]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.11.23-00.17.23:207][ 35]PIE: Server logged in
+[2021.11.23-00.17.23:208][ 35]PIE: Play in editor total start time 0,067 seconds.
+[2021.11.23-00.17.31:621][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.17.31:621][538]LogWorld: BeginTearingDown for /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.17.31:621][538]LogWorld: UWorld::CleanupWorld for ZombiePlaygorund, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-00.17.31:621][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.17.31:631][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-00.17.31:645][538]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.17.31:666][538]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-00.17.31:666][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.17.31:667][538]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.17.31:671][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.17.31:674][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.11.23-00.17.31:703][539]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.11.23-00.17.52:622][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/zombie_bp" FILE="../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/Zombie/zombie_bp.uasset" SILENT=true
+[2021.11.23-00.17.52:642][765]LogSavePackage: Moving '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Saved/zombie_bp1176B3BD4CA44076C53D7FA724E7AA91.tmp' to '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/Zombie/zombie_bp.uasset'
+[2021.11.23-00.17.52:660][765]AssetCheck: New page: Asset Save: zombie_bp
+[2021.11.23-00.17.52:660][765]LogContentValidation: Display: Validating Blueprint /Game/Zombie/zombie_bp.zombie_bp
+[2021.11.23-00.17.57:718][ 54]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-00.17.57:722][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-00.17.57:722][ 54]PIE: New page: PIE session: ZombiePlaygorund (23/11/2021, 00:17:57)
+[2021.11.23-00.17.57:722][ 54]LogPlayLevel: Creating play world package: /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.17.57:724][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001872s)
+[2021.11.23-00.17.57:725][ 54]LogAIModule: Creating AISystem for world ZombiePlaygorund
+[2021.11.23-00.17.57:725][ 54]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2021.11.23-00.17.57:725][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zombie/ZombiMaps/ZombiePlaygorund.ZombiePlaygorund to /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund (0.002975s)
+[2021.11.23-00.17.57:749][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.11.23-00.17.57:751][ 54]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-00.17.57:751][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-00.17.57:751][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-00.17.57:751][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-00.17.57:751][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-00.17.57:751][ 54]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-00.17.57:754][ 54]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-00.17.57:754][ 54]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-00.17.57:777][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-00.17.57:778][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-00.17.57:778][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-00.17.57:778][ 54]LogInit: FAudioDevice initialized.
+[2021.11.23-00.17.57:778][ 54]LogAudio: Display: Audio Device (ID: 34) registered with world 'ZombiePlaygorund'.
+[2021.11.23-00.17.57:788][ 54]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.23-00.17.57:790][ 54]LogWorld: Bringing World /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund up for play (max tick rate 60) at 2021.11.23-00.17.57
+[2021.11.23-00.17.57:790][ 54]LogWorld: Bringing up level for play took: 0.000584
+[2021.11.23-00.17.57:790][ 54]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.11.23-00.17.57:793][ 54]PIE: Server logged in
+[2021.11.23-00.17.57:794][ 54]PIE: Play in editor total start time 0,072 seconds.
+[2021.11.23-00.18.16:850][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.18.16:850][196]LogWorld: BeginTearingDown for /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.18.16:850][196]LogWorld: UWorld::CleanupWorld for ZombiePlaygorund, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-00.18.16:850][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.18.16:857][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-00.18.16:871][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.18.16:892][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-00.18.16:892][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.18.16:893][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.18.16:896][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.18.16:899][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.11.23-00.18.16:939][198]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.11.23-00.20.20:912][289]BlueprintLog: New page: Compile zombie_bp
+[2021.11.23-00.20.20:973][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.11.23-00.20.21:464][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/zombie_bp" FILE="../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/Zombie/zombie_bp.uasset" SILENT=true
+[2021.11.23-00.20.21:486][313]LogSavePackage: Moving '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Saved/zombie_bp609A26A5461EB6AB24383C82B329FE0A.tmp' to '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/Zombie/zombie_bp.uasset'
+[2021.11.23-00.20.21:502][313]AssetCheck: New page: Asset Save: zombie_bp
+[2021.11.23-00.20.21:502][313]LogContentValidation: Display: Validating Blueprint /Game/Zombie/zombie_bp.zombie_bp
+[2021.11.23-00.20.23:479][425]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.23-00.20.23:483][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.23-00.20.23:483][425]PIE: New page: PIE session: ZombiePlaygorund (23/11/2021, 00:20:23)
+[2021.11.23-00.20.23:509][425]LogPlayLevel: Creating play world package: /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.20.23:511][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001864s)
+[2021.11.23-00.20.23:511][425]LogAIModule: Creating AISystem for world ZombiePlaygorund
+[2021.11.23-00.20.23:511][425]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2021.11.23-00.20.23:511][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Zombie/ZombiMaps/ZombiePlaygorund.ZombiePlaygorund to /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund (0.003067s)
+[2021.11.23-00.20.23:535][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.11.23-00.20.23:536][425]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-00.20.23:536][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-00.20.23:536][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-00.20.23:536][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-00.20.23:536][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-00.20.23:536][425]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-00.20.23:539][425]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-00.20.23:539][425]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-00.20.23:562][425]LogAudioMixer: Display: Using Audio Device Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23-00.20.23:562][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-00.20.23:562][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-00.20.23:562][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-00.20.23:562][425]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-00.20.23:562][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-00.20.23:562][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-00.20.23:563][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-00.20.23:563][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-00.20.23:563][425]LogInit: FAudioDevice initialized.
+[2021.11.23-00.20.23:563][425]LogAudio: Display: Audio Device (ID: 35) registered with world 'ZombiePlaygorund'.
+[2021.11.23-00.20.23:574][425]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.23-00.20.23:575][425]LogWorld: Bringing World /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund.ZombiePlaygorund up for play (max tick rate 60) at 2021.11.23-00.20.23
+[2021.11.23-00.20.23:576][425]LogWorld: Bringing up level for play took: 0.000630
+[2021.11.23-00.20.23:576][425]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.11.23-00.20.23:579][425]PIE: Server logged in
+[2021.11.23-00.20.23:579][425]PIE: Play in editor total start time 0,097 seconds.
+[2021.11.23-00.20.38:200][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.20.38:200][300]LogWorld: BeginTearingDown for /Game/Zombie/ZombiMaps/UEDPIE_0_ZombiePlaygorund
+[2021.11.23-00.20.38:200][300]LogWorld: UWorld::CleanupWorld for ZombiePlaygorund, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-00.20.38:200][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.20.38:214][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.23-00.20.38:226][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-00.20.38:248][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-00.20.38:248][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.20.38:249][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.23-00.20.38:252][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-00.20.38:256][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.11.23-00.20.38:284][301]LogPlayLevel: Display: Destroying online subsystem :Context_48
