@@ -4325,3 +4325,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.24-22.18.20:971][ 85]LogSavePackage: Moving '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Saved/Key_bp5EA1617F4500873DB5CD57A5755BD8CB.tmp' to '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/Key/Key_bp.uasset'
 [2021.11.24-22.18.20:983][ 85]AssetCheck: New page: Asset Save: Key_bp
 [2021.11.24-22.18.20:983][ 85]LogContentValidation: Display: Validating Blueprint /Game/Key/Key_bp.Key_bp
+[2021.11.24-22.24.08:689][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.11.24-22.24.08:735][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.24-22.24.08:753][877]LogSavePackage: Moving '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Saved/ThirdPersonExampleMap52AD72EE41AF9FE12435F1BEECA419F4.tmp' to '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.24-22.24.08:764][877]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.054
+[2021.11.24-22.24.08:924][877]LogSavePackage: Moving '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Saved/ThirdPersonCharacter88A84B8D474500F351D1F5ADB5821ADE.tmp' to '../../../../../UnrealGames/Climb_Game/unreal_git/Climb/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.11.24-22.24.08:938][877]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.24-22.24.08:938][877]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.24-22.24.08:938][877]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
